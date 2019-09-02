@@ -1,0 +1,7 @@
+.vscode
+venv
+.DS_Store
+syndicat_naturopathie/syndicat_naturopathie/__pycache__/__init__.cpython-37.pyc
+syndicat_naturopathie/syndicat_naturopathie/__pycache__/settings.cpython-37.pyc
+syndicat_naturopathie/syndicat_naturopathie/spiders/__pycache__/__init__.cpython-37.pyc
+syndicat_naturopathie/syndicat_naturopathie/spiders/__pycache__/spider.cpython-37.pyc
